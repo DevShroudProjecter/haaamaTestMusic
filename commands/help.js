@@ -38,11 +38,10 @@ module.exports = {
 **| $c | $cl | $pl | $mv | $ly | $add | $h |**
      
 **[ invite ]**
-**[ click here ](https://discord.com/api/oauth2/authorize?client_id=780578520870158337&permissions=8&scope=bot)** 
+**[ click here ](https://discord.com/oauth2/authorize?client_id=855819588263215144&permissions=8&scope=bot)** 
 **[ support ]**
-**[ click here ](https://discord.gg/3wykSpqjZq)**                                                                
-**[ vote ]**
-**[ click here ](https://top.gg/bot/780578520870158337)**                                                                
+**[ click here ](https://discord.gg/8H4c9HH2Du)**                                                                
+                                                          
  `)
     
     helpEmbed.setTimestamp();
